@@ -1,0 +1,2 @@
+class UnpackError(Exception):
+    pass
